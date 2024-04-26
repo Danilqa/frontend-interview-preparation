@@ -67,3 +67,8 @@ Will be individual for each case.
 
 1. Classes overrides for each component
 2. CSS Variables
+
+## Optimizations
+
+1. [Performance](https://github.com/Danilqa/web-performance-handbook)
+2. [UX](https://evilmartians.com/chronicles/html-best-practices-for-login-and-signup-forms)
